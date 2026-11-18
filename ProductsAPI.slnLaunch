@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Nouveau profil",
+    "Projects": [
+      {
+        "Path": "ProductsAPI\\ProductsAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "OrdersAPI\\OrdersAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ApiGateway\\ApiGateway.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
